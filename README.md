@@ -11,7 +11,7 @@ Author: Sri Vaishnavi Viswanathan
 | File | Description |
 |------|-------------|
 | `Management_of_Inventory_Systems_Course_Project - Case Study` | Case study report on optimizing Indigo's pilot safety stock and service level to prevent the 2025 operational crisis|
-| `simulation_1_monte_carlo.py` | Monte Carlo validation of theoretical service levels |
+| `simulation_1_monte_carlo.ipynb` | Monte Carlo validation of theoretical service levels |
 | `simulation_1_monte_carlo.png` | Simulation Results Graph |
 
 ---
