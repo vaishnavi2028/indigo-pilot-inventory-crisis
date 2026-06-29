@@ -36,11 +36,11 @@ python simulation_1_monte_carlo.py
 
 Sample output:
 ```
-SL  90.0%  |  N=2,337  |  Theoretical: 90.0%  |  Simulated: 89.97%  |  Δ = -0.03pp
-SL  95.0%  |  N=2,410  |  Theoretical: 95.0%  |  Simulated: 95.11%  |  Δ = +0.11pp
-SL  97.0%  |  N=2,455  |  Theoretical: 97.0%  |  Simulated: 97.03%  |  Δ = +0.03pp
-SL  99.0%  |  N=2,544  |  Theoretical: 99.0%  |  Simulated: 99.02%  |  Δ = +0.02pp
-SL  99.5%  |  N=2,593  |  Theoretical: 99.5%  |  Simulated: 99.51%  |  Δ = +0.01pp
+SL  90.0%  |  N=2,337  |  Theoretical: 90.0%  |  Simulated: 90.05%  |  Δ = +0.05pp  |  Stockouts: 995
+SL  95.0%  |  N=2,410  |  Theoretical: 95.0%  |  Simulated: 95.12%  |  Δ = +0.12pp  |  Stockouts: 488
+SL  97.0%  |  N=2,455  |  Theoretical: 97.0%  |  Simulated: 96.95%  |  Δ = -0.05pp  |  Stockouts: 305
+SL  99.0%  |  N=2,544  |  Theoretical: 99.0%  |  Simulated: 98.94%  |  Δ = -0.06pp  |  Stockouts: 106
+SL  99.5%  |  N=2,593  |  Theoretical: 99.5%  |  Simulated: 99.48%  |  Δ = -0.02pp  |  Stockouts:  52
 ```
 
 ---
